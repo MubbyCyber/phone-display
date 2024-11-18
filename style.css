@@ -1,0 +1,200 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+.sec1{
+    background-image: url(./images/iphon1.jpg);
+    height: 100vh;
+    background-size: contain;
+    color: white;
+}
+
+nav{
+    color: rgba(255, 255, 255, 0.753);
+    display: flex;
+    gap: 100px; 
+    padding-left: 100px;
+    padding-top: 20px;
+    background-color: black;
+    position: sticky;
+    top: 0;
+
+}
+.iphone16pro{
+ font-size: 35px;
+padding-left: 400px;
+padding-top: 20px;
+color: white;
+}
+
+.btn1{
+    margin-top: 400px;
+    margin-left: 500px;
+    border:none;
+    background-color: blue;
+    padding: 20px;
+    border-radius: 30px;
+    color: white;
+
+}
+
+.sec2{
+    background-image: url(./images/iphone2.jpg);
+    height: 100vh;
+    background-size: contain;
+    margin-top: 15px;
+}
+
+.iphone16{
+    font-size: 35px;
+padding-left: 500px;
+padding-top: 20px;
+color: white;
+}
+
+.btn2{
+    margin-top: 460px;
+    margin-left: 600px;
+    border:none;
+    background-color: blue;
+    padding: 20px;
+    border-radius: 30px;
+    color: white;
+}
+
+.sec3{
+    background-image: url(./images/iphone3.jpg);
+    height: 100vh;
+    background-size: contain;
+}
+
+.Mac{
+    font-size: 60px;
+    margin-left: 400px;
+    padding-top: 40px;
+}
+
+.txt{
+    padding-left: 400px;
+    font-weight: lighter;
+    padding-top: 10px;
+}
+
+.btn3{
+    margin-left: 500px;
+    margin-top: 15px;
+    border:none;
+    background-color: blue;
+    padding: 20px;
+    border-radius: 30px;
+    color: white;
+}
+
+.sec4{
+    margin-top: 20px;
+    padding-left: 40px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 10px;
+    margin-right: 10px;
+}
+
+.bgimg{
+   background-image: url(./images/phone4.jpg);
+   height: 100vh; 
+   background-size: contain;
+   background-repeat: no-repeat;
+   color: white;
+}
+
+.bgimg2{
+ background-image: url(./images/phone5.jpg);
+ height: 100vh;
+ background-size: contain;
+ background-repeat: no-repeat;
+}
+
+.ipad{
+    font-size: 40px;
+    padding-left: 150px;
+    padding-top: 40px;
+}
+.txt2{
+    color: white;
+    font-weight: lighter;
+    padding-left: 100px;
+}
+
+.btn4{
+    border:none;
+    background-color: blue;
+    padding: 10px;
+    border-radius: 30px;
+    color: white;
+    margin-left: 200px;
+    margin-top: 10px;
+}
+
+.imglogo{
+    font-size: 40px;
+    padding-left: 150px;
+    padding-top: 40px;
+}
+
+.txt3{
+    font-weight: lighter;
+    padding-left: 100px;
+}
+
+.btn5{
+    border:none;
+    background-color: black;
+    padding: 10px;
+    border-radius: 30px;
+    color: white;
+    margin-left: 200px;
+    margin-top: 10px;
+}
+
+.bgimg3{
+    background-image: url(./images/laptop5.jpg);
+    height: 100vh;
+    background-size: contain;
+ background-repeat: no-repeat;
+}
+
+.bgimg4{
+    background-image: url(./images/phone.jpg);
+    height: 100vh;
+    background-size: contain;
+ background-repeat: no-repeat;
+}
+
+.sec5{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 10px;
+    margin-right: 10px;
+
+  
+}
+
+
+.footer{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    gap: 40px;
+}
+
+ul{
+    list-style: none;
+}
+
+
+
+
